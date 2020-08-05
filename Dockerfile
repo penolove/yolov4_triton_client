@@ -1,4 +1,4 @@
-FROM nvcr.io/nvidia/tritonserver:20.07-v1-py3-clientsdk
+FROM nvcr.io/nvidia/tritonserver:20.07-py3-clientsdk
 
-COPY requirments.txt /requirments.txt
-RUN pip3 install -r /requirments.txt
+COPY requirements.txt /requirements.txt
+RUN pip3 install -r /requirements.txt
