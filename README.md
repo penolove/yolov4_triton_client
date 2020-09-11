@@ -8,9 +8,7 @@ which is a awesome repo with lots of famous network tensorrt implmentation
 pre-requirement:
 
 - docker
-- triton server serving with yolov4 [TODO](provide the meidum link)
-
-if any not clear, can check the content in [blog](https://medium.com/@penolove15/yolov4-with-triton-inference-server-and-client-6b02f085c622)
+- triton server serving with yolov4 [more detail here](https://medium.com/@penolove15/yolov4-with-triton-inference-server-and-client-6b02f085c622)
 
 ## run a client
 
